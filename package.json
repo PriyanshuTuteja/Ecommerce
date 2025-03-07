@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/PriyanshuTuteja/Ecommerce/issues"
   },
-  "homepage": "https://github.com/PriyanshuTuteja/Ecommerce#readme"
+  "homepage": "https://github.com/PriyanshuTuteja/Ecommerce#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
 }
